@@ -9,15 +9,17 @@
 
   <p>
     <a href="mailto:k.a.praneshprasath2005@gmail.com">
-      <img src="https://img.shields.io/badge/Email-k.a.praneshprasath2005%40gmail.com-24292e?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+      <img src="https://img.shields.io/badge/Email-k.a.praneshprasath2005%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
     </a>
     <a href="https://github.com/PraneshPrasathKA">
-      <img src="https://img.shields.io/badge/GitHub-PraneshPrasathKA-24292e?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+      <img src="https://img.shields.io/badge/GitHub-PraneshPrasathKA-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
     </a>
     <a href="https://pranesh-prasath-k-a-portfolio.netlify.app">
-      <img src="https://img.shields.io/badge/Portfolio-Netlify-24292e?style=flat-square&logo=netlify&logoColor=white" alt="Portfolio" />
+      <img src="https://img.shields.io/badge/Portfolio-Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white" alt="Portfolio" />
     </a>
-    <img src="https://img.shields.io/badge/Location-Madurai%2C%20India-24292e?style=flat-square&logo=googlemaps&logoColor=white" alt="Location" />
+    <a href="https://maps.google.com/?q=Madurai,+India">
+      <img src="https://img.shields.io/badge/Location-Madurai%2C%20India-4285F4?style=flat-square&logo=googlemaps&logoColor=white" alt="Location" />
+    </a>
   </p>
 </div>
 
