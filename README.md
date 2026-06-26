@@ -43,6 +43,8 @@ I am a **Full Stack & AI Developer** passionate about designing visually stunnin
 - 🧠 RAG & Knowledge Architectures
 - 🎙️ Voice AI & Conversational Systems
 - ⚡ AI Automation Workflows
+- 🎨 UI/UX & Interactive Design
+- 💻 Modern Full-Stack Architectures
 
 🔭 **Currently Building**
 
@@ -218,6 +220,12 @@ I am currently **open to full-time roles, internship opportunities, and freelanc
 - 🐙 **GitHub**: [PraneshPrasathKA](https://github.com/PraneshPrasathKA)
 
 ---
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote" />
+</div>
+
+<br />
 
 <div align="center">
   <sub>Designed with ❤️ by Pranesh Prasath K A</sub>
